@@ -1,7 +1,14 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Blog.Models
 {
+    [Table("User")]
+
     public class User // tabela do sql
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; } // coluna da tabela sql
         public string Name { get; set; }
         public string Email { get; set; }
