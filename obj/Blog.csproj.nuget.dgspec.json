@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj": {}
+    "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj": {
+    "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj",
+        "projectUniqueName": "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj",
+        "projectPath": "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cursos\\efcore\\blog\\obj\\",
+        "outputPath": "C:\\dev\\cursos\\efcore\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",

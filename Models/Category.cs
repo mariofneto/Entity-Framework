@@ -19,7 +19,7 @@ namespace Blog.Models
         [Required] // marcado como notnull
         [MinLength(3)]
         [MaxLength(80)] // tamanho maximo igual do banco
-        [Column("Name", TypeName = "VARCHAR")]
+        [Column("Slug", TypeName = "VARCHAR")]
         public string Slug { get; set; }
     }
 }
