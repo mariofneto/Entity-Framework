@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gtFaJS9rP7MrqhXTvg6qajItktzp1R/oqXK3NHtYPbwXBUjjJoRUfntJ5HU26l2AqEqSj35lhDSbJ7K1LH9rg==",
+  "dgSpecHash": "7FWje+OcNONIDE3UTFZvtah7SNQbsw+pGcCHuu3w6Lus8+ThkEiE2JNaxtSPleNJZB3xruvYPE+dYj4oIjWhFQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj",
+  "projectFilePath": "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
