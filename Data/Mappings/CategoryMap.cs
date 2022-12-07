@@ -27,7 +27,7 @@ namespace Blog.Data.Mappings
                 .HasColumnType("NVARCHAR")
                 .HasMaxLength(80);
 
-            builder.Property(x => x.Name)
+            builder.Property(x => x.Slug)
                 .IsRequired() // NOT NULL
                 .HasColumnName("Slug")
                 .HasColumnType("VARCHAR")

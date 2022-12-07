@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj": {}
+    "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj": {
+    "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\dev\\cursos\\efcore\\Blog\\Blog.csproj",
+        "projectPath": "C:\\dev\\cursos\\efcore\\blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cursos\\efcore\\Blog\\obj\\",
+        "outputPath": "C:\\dev\\cursos\\efcore\\blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,12 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             },
